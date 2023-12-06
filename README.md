@@ -1,4 +1,4 @@
-# booster
+# Boost now. Blast Later.
 
 Install packages:
 `npm i`
